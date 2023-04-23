@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-04-23 21:05:44",
+    "timestamp": "2023-04-23 21:24:31",
     "data": [
         {
             "bank": "Kapalı Çarşı",
@@ -39,9 +39,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.1520",
-            "sell": "20.9000",
-            "difference": "1.7480"
+            "buy": "19.1679",
+            "sell": "20.8582",
+            "difference": "1.6903"
         },
         {
             "bank": "ING Bank",
@@ -51,15 +51,15 @@
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.0939",
-            "sell": "20.6949",
-            "difference": "1.6010"
+            "buy": "19.0996",
+            "sell": "20.7011",
+            "difference": "1.6015"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.3913",
+            "buy": "19.3943",
             "sell": "20.9089",
-            "difference": "1.5176"
+            "difference": "1.5146"
         }
     ]
 }
