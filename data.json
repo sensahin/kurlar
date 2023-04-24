@@ -1,16 +1,16 @@
 {
-    "timestamp": "2023-04-24 13:26:52",
+    "timestamp": "2023-04-24 13:44:39",
     "data": [
         {
             "bank": "Kapalı Çarşı",
-            "buy": "20.4100",
-            "sell": "20.4200",
+            "buy": "20.4000",
+            "sell": "20.4100",
             "difference": "0.0100"
         },
         {
             "bank": "Akbank",
-            "buy": "19.3930",
-            "sell": "20.5230",
+            "buy": "19.3940",
+            "sell": "20.5240",
             "difference": "1.1300"
         },
         {
@@ -21,8 +21,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.3779",
-            "sell": "20.4980",
+            "buy": "19.3781",
+            "sell": "20.4982",
             "difference": "1.1201"
         },
         {
@@ -33,33 +33,33 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.3950",
+            "buy": "19.3960",
             "sell": "20.5040",
-            "difference": "1.1090"
+            "difference": "1.1080"
         },
         {
             "bank": "HSBC",
-            "buy": "19.3639",
-            "sell": "20.4556",
-            "difference": "1.0917"
+            "buy": "19.3681",
+            "sell": "20.4535",
+            "difference": "1.0854"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.4100",
-            "sell": "20.3962",
-            "difference": "0.9862"
+            "buy": "19.4114",
+            "sell": "20.3964",
+            "difference": "0.9850"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.3936",
-            "sell": "20.5027",
+            "buy": "19.3938",
+            "sell": "20.5029",
             "difference": "1.1091"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4013",
-            "sell": "20.5011",
-            "difference": "1.0998"
+            "buy": "19.4006",
+            "sell": "20.4993",
+            "difference": "1.0987"
         }
     ]
 }
