@@ -1,16 +1,16 @@
 {
-    "timestamp": "2023-04-26 11:24:20",
+    "timestamp": "2023-04-26 11:44:26",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.3400",
-            "sell": "20.3500",
+            "buy": "20.3300",
+            "sell": "20.3400",
             "difference": "0.0100"
         },
         {
             "bank": "Akbank",
-            "buy": "19.4120",
-            "sell": "20.6620",
+            "buy": "19.4150",
+            "sell": "20.6650",
             "difference": "1.2500"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.3969",
-            "sell": "20.5170",
+            "buy": "19.3975",
+            "sell": "20.5176",
             "difference": "1.1201"
         },
         {
             "bank": "Enpara",
-            "buy": "19.5000",
-            "sell": "20.5750",
+            "buy": "19.5040",
+            "sell": "20.5790",
             "difference": "1.0750"
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.3859",
-            "sell": "20.4737",
-            "difference": "1.0878"
+            "buy": "19.3867",
+            "sell": "20.4784",
+            "difference": "1.0917"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.4287",
-            "sell": "20.4164",
-            "difference": "0.9877"
+            "buy": "19.4330",
+            "sell": "20.4191",
+            "difference": "0.9861"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4124",
-            "sell": "20.5225",
-            "difference": "1.1101"
+            "buy": "19.4136",
+            "sell": "20.5238",
+            "difference": "1.1102"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4191",
-            "sell": "20.5210",
-            "difference": "1.1019"
+            "buy": "19.4206",
+            "sell": "20.5213",
+            "difference": "1.1007"
         }
     ]
 }
