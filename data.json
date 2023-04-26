@@ -1,16 +1,16 @@
 {
-    "timestamp": "2023-04-26 13:07:29",
+    "timestamp": "2023-04-26 13:26:45",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.3500",
-            "sell": "20.3600",
+            "buy": "20.3700",
+            "sell": "20.3800",
             "difference": "0.0100"
         },
         {
             "bank": "Akbank",
-            "buy": "19.4130",
-            "sell": "20.6630",
+            "buy": "19.4120",
+            "sell": "20.6620",
             "difference": "1.2500"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.3981",
-            "sell": "20.5182",
+            "buy": "19.3972",
+            "sell": "20.5173",
             "difference": "1.1201"
         },
         {
             "bank": "Enpara",
-            "buy": "19.5000",
-            "sell": "20.5750",
+            "buy": "19.5010",
+            "sell": "20.5760",
             "difference": "1.0750"
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.3882",
-            "sell": "20.4738",
-            "difference": "1.0856"
+            "buy": "19.3850",
+            "sell": "20.4767",
+            "difference": "1.0917"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.4312",
+            "buy": "19.4289",
             "sell": "20.4173",
-            "difference": "0.9861"
+            "difference": "0.9884"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4140",
-            "sell": "20.5242",
+            "buy": "19.4133",
+            "sell": "20.5235",
             "difference": "1.1102"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4203",
-            "sell": "20.5223",
-            "difference": "1.1020"
+            "buy": "19.4196",
+            "sell": "20.5212",
+            "difference": "1.1016"
         }
     ]
 }
