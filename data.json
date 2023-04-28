@@ -1,16 +1,16 @@
 {
-    "timestamp": "2023-04-28 12:07:28",
+    "timestamp": "2023-04-28 12:32:49",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.0700",
-            "sell": "20.0900",
+            "buy": "20.1700",
+            "sell": "20.1900",
             "difference": "0.0200"
         },
         {
             "bank": "Akbank",
-            "buy": "19.4140",
-            "sell": "20.6640",
+            "buy": "19.4150",
+            "sell": "20.6650",
             "difference": "1.2500"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.4118",
-            "sell": "20.5319",
+            "buy": "19.4112",
+            "sell": "20.5313",
             "difference": "1.1201"
         },
         {
             "bank": "Enpara",
-            "buy": "19.4750",
-            "sell": "20.5500",
+            "buy": "19.4800",
+            "sell": "20.5550",
             "difference": "1.0750"
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.4004",
-            "sell": "20.5156",
-            "difference": "1.1152"
+            "buy": "19.4009",
+            "sell": "20.5165",
+            "difference": "1.1156"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.4307",
-            "sell": "20.5382",
-            "difference": "1.1075"
+            "buy": "19.4299",
+            "sell": "20.5413",
+            "difference": "1.1114"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4397",
-            "sell": "20.5515",
+            "buy": "19.4407",
+            "sell": "20.5525",
             "difference": "1.1118"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4474",
-            "sell": "20.6859",
-            "difference": "1.2385"
+            "buy": "19.4489",
+            "sell": "20.6902",
+            "difference": "1.2413"
         }
     ]
 }
