@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-04 21:24:35",
+    "timestamp": "2023-05-04 21:44:32",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Enpara",
-            "buy": "19.5130",
+            "buy": "19.5230",
             "sell": "20.9000",
-            "difference": "1.3870"
+            "difference": "1.3770"
         },
         {
             "bank": "Garanti BBVA",
@@ -46,8 +46,8 @@
         {
             "bank": "ING Bank",
             "buy": "19.4755",
-            "sell": "20.7826",
-            "difference": "1.3071"
+            "sell": "20.7885",
+            "difference": "1.3130"
         },
         {
             "bank": "İş Bankası",
@@ -57,9 +57,9 @@
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4834",
-            "sell": "21.7971",
-            "difference": "2.3137"
+            "buy": "19.4821",
+            "sell": "21.7998",
+            "difference": "2.3177"
         }
     ]
 }
