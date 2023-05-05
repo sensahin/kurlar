@@ -1,10 +1,10 @@
 {
-    "timestamp": "2023-05-05 11:24:22",
+    "timestamp": "2023-05-05 11:44:32",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.3350",
-            "sell": "20.3450",
+            "buy": "20.3550",
+            "sell": "20.3650",
             "difference": "0.0100"
         },
         {
@@ -16,19 +16,19 @@
         {
             "bank": "Albaraka Türk",
             "buy": "19.4740",
-            "sell": "20.6480",
-            "difference": "1.1740"
+            "sell": "20.6470",
+            "difference": "1.1730"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.4602",
-            "sell": "20.5803",
+            "buy": "19.4601",
+            "sell": "20.5802",
             "difference": "1.1201"
         },
         {
             "bank": "Enpara",
-            "buy": "19.5225",
-            "sell": "20.5975",
+            "buy": "19.5210",
+            "sell": "20.5960",
             "difference": "1.0750"
         },
         {
@@ -40,26 +40,26 @@
         {
             "bank": "HSBC",
             "buy": "19.4540",
-            "sell": "20.6155",
-            "difference": "1.1615"
+            "sell": "20.6150",
+            "difference": "1.1610"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.4973",
-            "sell": "20.5844",
-            "difference": "1.0871"
+            "buy": "19.4959",
+            "sell": "20.5841",
+            "difference": "1.0882"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4688",
-            "sell": "20.6768",
-            "difference": "1.2080"
+            "buy": "19.4683",
+            "sell": "20.6762",
+            "difference": "1.2079"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.4916",
-            "sell": "20.6502",
-            "difference": "1.1586"
+            "buy": "19.4912",
+            "sell": "20.6497",
+            "difference": "1.1585"
         }
     ]
 }
