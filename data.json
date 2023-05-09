@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-09 12:38:23",
+    "timestamp": "2023-05-09 13:06:22",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -9,8 +9,8 @@
         },
         {
             "bank": "Akbank",
-            "buy": "19.5000",
-            "sell": "20.7500",
+            "buy": "19.5010",
+            "sell": "20.7510",
             "difference": "1.2500"
         },
         {
@@ -21,45 +21,45 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.4865",
-            "sell": "20.6466",
+            "buy": "19.4870",
+            "sell": "20.6471",
             "difference": "1.1601"
         },
         {
             "bank": "Enpara",
-            "buy": "19.5375",
-            "sell": "20.6125",
+            "buy": "19.5390",
+            "sell": "20.6140",
             "difference": "1.0750"
         },
         {
             "bank": "Garanti BBVA",
             "buy": "19.5000",
-            "sell": "20.6580",
-            "difference": "1.1580"
+            "sell": "20.6590",
+            "difference": "1.1590"
         },
         {
             "bank": "HSBC",
-            "buy": "19.4774",
+            "buy": "19.4769",
             "sell": "20.6308",
-            "difference": "1.1534"
+            "difference": "1.1539"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.5198",
-            "sell": "20.6047",
-            "difference": "1.0849"
+            "buy": "19.5190",
+            "sell": "20.6059",
+            "difference": "1.0869"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4836",
-            "sell": "20.6972",
+            "buy": "19.4837",
+            "sell": "20.6973",
             "difference": "1.2136"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.5088",
-            "sell": "20.6683",
-            "difference": "1.1595"
+            "buy": "19.5093",
+            "sell": "20.6690",
+            "difference": "1.1597"
         }
     ]
 }
