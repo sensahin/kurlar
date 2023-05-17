@@ -1,10 +1,10 @@
 {
-    "timestamp": "2023-05-17 12:49:42",
+    "timestamp": "2023-05-17 13:06:54",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.2300",
-            "sell": "20.2500",
+            "buy": "20.2600",
+            "sell": "20.2800",
             "difference": "0.0200"
         },
         {
@@ -21,45 +21,45 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "19.7316",
-            "sell": "21.2017",
+            "buy": "19.7318",
+            "sell": "21.2019",
             "difference": "1.4701"
         },
         {
             "bank": "Enpara",
-            "buy": "19.7835",
-            "sell": "21.0585",
+            "buy": "19.7830",
+            "sell": "21.0580",
             "difference": "1.2750"
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.7450",
+            "buy": "19.7460",
             "sell": "21.2200",
-            "difference": "1.4750"
+            "difference": "1.4740"
         },
         {
             "bank": "HSBC",
-            "buy": "19.7207",
-            "sell": "21.1464",
-            "difference": "1.4257"
+            "buy": "19.7217",
+            "sell": "21.1484",
+            "difference": "1.4267"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.7641",
-            "sell": "21.2582",
-            "difference": "1.4941"
+            "buy": "19.7649",
+            "sell": "21.2564",
+            "difference": "1.4915"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.7285",
-            "sell": "21.2551",
-            "difference": "1.5266"
+            "buy": "19.7302",
+            "sell": "21.2530",
+            "difference": "1.5228"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.7545",
-            "sell": "20.7454",
-            "difference": "0.9909"
+            "buy": "19.7551",
+            "sell": "20.7452",
+            "difference": "0.9901"
         }
     ]
 }
