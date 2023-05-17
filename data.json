@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-17 05:06:04",
+    "timestamp": "2023-05-17 05:25:39",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -15,51 +15,51 @@
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "19.5160",
+            "buy": "19.5200",
             "sell": "21.5370",
-            "difference": "2.0210"
+            "difference": "2.0170"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.7119",
-            "sell": "21.1820",
+            "buy": "19.7142",
+            "sell": "21.1843",
             "difference": "1.4701"
         },
         {
             "bank": "Enpara",
             "buy": "19.6250",
-            "sell": "21.4360",
-            "difference": "1.8110"
+            "sell": "21.4500",
+            "difference": "1.8250"
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.7060",
-            "sell": "21.5060",
+            "buy": "19.7240",
+            "sell": "21.5240",
             "difference": "1.8000"
         },
         {
             "bank": "HSBC",
-            "buy": "19.5058",
+            "buy": "19.5086",
             "sell": "21.4887",
-            "difference": "1.9829"
+            "difference": "1.9801"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.7254",
-            "sell": "21.1387",
-            "difference": "1.4133"
+            "buy": "19.7265",
+            "sell": "21.1383",
+            "difference": "1.4118"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.4660",
-            "sell": "21.5614",
-            "difference": "2.0954"
+            "buy": "19.4614",
+            "sell": "21.5635",
+            "difference": "2.1021"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.7339",
-            "sell": "20.6297",
-            "difference": "0.8958"
+            "buy": "19.7353",
+            "sell": "20.6313",
+            "difference": "0.8960"
         }
     ]
 }
