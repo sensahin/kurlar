@@ -1,28 +1,28 @@
 {
-    "timestamp": "2023-05-18 07:44:33",
+    "timestamp": "2023-05-18 08:06:50",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.2600",
-            "sell": "20.2800",
-            "difference": "0.0200"
+            "buy": "20.1500",
+            "sell": "20.2000",
+            "difference": "0.0500"
         },
         {
             "bank": "Akbank",
-            "buy": "19.7540",
-            "sell": "21.4540",
+            "buy": "19.7570",
+            "sell": "21.4570",
             "difference": "1.7000"
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "19.7650",
+            "buy": "19.7680",
             "sell": "21.2350",
-            "difference": "1.4700"
+            "difference": "1.4670"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.7465",
-            "sell": "21.2166",
+            "buy": "19.7503",
+            "sell": "21.2204",
             "difference": "1.4701"
         },
         {
@@ -33,33 +33,33 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.7700",
-            "sell": "21.2450",
+            "buy": "19.7740",
+            "sell": "21.2490",
             "difference": "1.4750"
         },
         {
             "bank": "HSBC",
-            "buy": "19.7486",
-            "sell": "21.1766",
-            "difference": "1.4280"
+            "buy": "19.7505",
+            "sell": "21.1822",
+            "difference": "1.4317"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.7858",
-            "sell": "21.2816",
-            "difference": "1.4958"
+            "buy": "19.7878",
+            "sell": "21.2863",
+            "difference": "1.4985"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.7564",
-            "sell": "21.2870",
-            "difference": "1.5306"
+            "buy": "19.7624",
+            "sell": "21.2899",
+            "difference": "1.5275"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "19.7842",
-            "sell": "20.7767",
-            "difference": "0.9925"
+            "buy": "19.7859",
+            "sell": "20.7780",
+            "difference": "0.9921"
         }
     ]
 }
