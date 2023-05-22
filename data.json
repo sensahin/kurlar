@@ -1,28 +1,28 @@
 {
-    "timestamp": "2023-05-22 10:44:27",
+    "timestamp": "2023-05-22 11:05:56",
     "data": [
         {
             "bank": "Kapalicarsi",
             "buy": "20.5300",
-            "sell": "20.5500",
-            "difference": "0.0200"
+            "sell": "20.5400",
+            "difference": "0.0100"
         },
         {
             "bank": "Akbank",
-            "buy": "19.8130",
-            "sell": "21.5130",
+            "buy": "19.8140",
+            "sell": "21.5140",
             "difference": "1.7000"
         },
         {
             "bank": "Albaraka Türk",
             "buy": "19.8090",
-            "sell": "21.3300",
-            "difference": "1.5210"
+            "sell": "21.3310",
+            "difference": "1.5220"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.8133",
-            "sell": "21.2034",
+            "buy": "19.8140",
+            "sell": "21.2041",
             "difference": "1.3901"
         },
         {
@@ -33,33 +33,33 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.7070",
-            "sell": "21.1820",
+            "buy": "19.7080",
+            "sell": "21.1830",
             "difference": "1.4750"
         },
         {
             "bank": "HSBC",
-            "buy": "19.7927",
-            "sell": "21.2794",
-            "difference": "1.4867"
+            "buy": "19.7939",
+            "sell": "21.2785",
+            "difference": "1.4846"
         },
         {
             "bank": "ING Bank",
             "buy": "19.8369",
-            "sell": "21.3282",
-            "difference": "1.4913"
+            "sell": "21.3288",
+            "difference": "1.4919"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.8001",
-            "sell": "21.3949",
-            "difference": "1.5948"
+            "buy": "19.8008",
+            "sell": "21.3960",
+            "difference": "1.5952"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "20.1238",
-            "sell": "21.8126",
-            "difference": "1.6888"
+            "buy": "20.1244",
+            "sell": "21.8120",
+            "difference": "1.6876"
         }
     ]
 }
