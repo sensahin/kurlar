@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-24 13:26:29",
+    "timestamp": "2023-05-24 13:44:26",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -15,51 +15,51 @@
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "19.8720",
+            "buy": "19.8700",
             "sell": "21.5420",
-            "difference": "1.6700"
+            "difference": "1.6720"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.8801",
-            "sell": "21.5052",
+            "buy": "19.8796",
+            "sell": "21.5047",
             "difference": "1.6251"
         },
         {
             "bank": "Enpara",
-            "buy": "19.9165",
-            "sell": "21.4915",
+            "buy": "19.9150",
+            "sell": "21.4900",
             "difference": "1.5750"
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "19.8800",
-            "sell": "21.4730",
+            "buy": "19.8790",
+            "sell": "21.4720",
             "difference": "1.5930"
         },
         {
             "bank": "HSBC",
-            "buy": "19.8570",
-            "sell": "21.4677",
-            "difference": "1.6107"
+            "buy": "19.8545",
+            "sell": "21.4682",
+            "difference": "1.6137"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.8988",
+            "buy": "19.8990",
             "sell": "21.4906",
-            "difference": "1.5918"
+            "difference": "1.5916"
         },
         {
             "bank": "İş Bankası",
-            "buy": "19.8630",
-            "sell": "21.5505",
-            "difference": "1.6875"
+            "buy": "19.8628",
+            "sell": "21.5506",
+            "difference": "1.6878"
         },
         {
             "bank": "Kuveyt Türk Senin Bankan",
-            "buy": "20.1865",
-            "sell": "21.4822",
-            "difference": "1.2957"
+            "buy": "20.1856",
+            "sell": "21.4807",
+            "difference": "1.2951"
         }
     ]
 }
