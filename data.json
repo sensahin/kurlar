@@ -1,10 +1,10 @@
 {
-    "timestamp": "2023-05-25 15:06:07",
+    "timestamp": "2023-05-25 15:24:40",
     "data": [
         {
             "bank": "Altinkaynak",
-            "buy": "20.9520",
-            "sell": "21.3510",
+            "buy": "20.9510",
+            "sell": "21.3500",
             "difference": "0.3990"
         },
         {
@@ -16,8 +16,8 @@
         {
             "bank": "Venus",
             "buy": "20.9910",
-            "sell": "21.2310",
-            "difference": "0.2400"
+            "sell": "21.2320",
+            "difference": "0.2410"
         },
         {
             "bank": "Odaci",
@@ -28,25 +28,25 @@
         {
             "bank": "Harem",
             "buy": "20.9980",
-            "sell": "21.1670",
-            "difference": "0.1690"
+            "sell": "21.1680",
+            "difference": "0.1700"
         },
         {
             "bank": "Akbank",
-            "buy": "19.7140",
-            "sell": "21.9140",
+            "buy": "19.7150",
+            "sell": "21.9150",
             "difference": "2.2000"
         },
         {
             "bank": "Albaraka Türk",
             "buy": "19.7130",
-            "sell": "22.0850",
-            "difference": "2.3720"
+            "sell": "22.0870",
+            "difference": "2.3740"
         },
         {
             "bank": "Denizbank",
-            "buy": "19.9215",
-            "sell": "21.5466",
+            "buy": "19.9226",
+            "sell": "21.5477",
             "difference": "1.6251"
         },
         {
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.8969",
-            "sell": "21.5514",
-            "difference": "1.6545"
+            "buy": "19.6981",
+            "sell": "22.0498",
+            "difference": "2.3517"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.9208",
-            "sell": "21.7325",
-            "difference": "1.8117"
+            "buy": "19.9198",
+            "sell": "21.7335",
+            "difference": "1.8137"
         }
     ]
 }
