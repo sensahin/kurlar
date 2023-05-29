@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-28 23:44:20",
+    "timestamp": "2023-05-29 00:23:47",
     "data": [
         {
             "bank": "Altinkaynak",
@@ -16,8 +16,8 @@
         {
             "bank": "Venus",
             "buy": "20.4420",
-            "sell": "21.5810",
-            "difference": "1.1390"
+            "sell": "21.5710",
+            "difference": "1.1290"
         },
         {
             "bank": "Odaci",
@@ -27,8 +27,8 @@
         },
         {
             "bank": "Harem",
-            "buy": "20.3740",
-            "sell": "21.4690",
+            "buy": "20.3730",
+            "sell": "21.4680",
             "difference": "1.0950"
         },
         {
@@ -39,9 +39,9 @@
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "19.6300",
-            "sell": "23.2400",
-            "difference": "3.6100"
+            "buy": "19.7300",
+            "sell": "23.1400",
+            "difference": "3.4100"
         },
         {
             "bank": "Denizbank",
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.7839",
-            "sell": "22.1556",
+            "buy": "19.7595",
+            "sell": "22.1312",
             "difference": "2.3717"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.9376",
-            "sell": "23.1334",
-            "difference": "3.1958"
+            "buy": "19.9331",
+            "sell": "23.0902",
+            "difference": "3.1571"
         }
     ]
 }
