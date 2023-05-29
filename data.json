@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-29 02:23:43",
+    "timestamp": "2023-05-29 02:48:52",
     "data": [
         {
             "bank": "Altinkaynak",
@@ -27,8 +27,8 @@
         },
         {
             "bank": "Harem",
-            "buy": "20.3800",
-            "sell": "21.4750",
+            "buy": "20.3810",
+            "sell": "21.4760",
             "difference": "1.0950"
         },
         {
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "19.7287",
-            "sell": "22.1723",
-            "difference": "2.4436"
+            "buy": "19.7271",
+            "sell": "22.1757",
+            "difference": "2.4486"
         },
         {
             "bank": "ING Bank",
-            "buy": "19.9353",
-            "sell": "23.1423",
-            "difference": "3.2070"
+            "buy": "19.9377",
+            "sell": "23.1441",
+            "difference": "3.2064"
         }
     ]
 }
