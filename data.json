@@ -1,40 +1,40 @@
 {
-    "timestamp": "2023-05-30 11:24:28",
+    "timestamp": "2023-05-30 11:44:31",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "20.6000",
-            "sell": "20.6500",
+            "buy": "20.6300",
+            "sell": "20.6800",
             "difference": "0.0500"
         },
         {
             "bank": "Altinkaynak",
-            "buy": "20.5140",
-            "sell": "20.9020",
-            "difference": "0.3880"
+            "buy": "20.5210",
+            "sell": "20.9000",
+            "difference": "0.3790"
         },
         {
             "bank": "Harem",
-            "buy": "20.5830",
-            "sell": "20.7850",
-            "difference": "0.2020"
+            "buy": "20.6000",
+            "sell": "20.7800",
+            "difference": "0.1800"
         },
         {
             "bank": "Odaci",
-            "buy": "20.6250",
+            "buy": "20.6500",
             "sell": "20.8500",
-            "difference": "0.2250"
+            "difference": "0.2000"
         },
         {
             "bank": "Venus",
-            "buy": "20.5880",
-            "sell": "20.8000",
-            "difference": "0.2120"
+            "buy": "20.5970",
+            "sell": "20.7850",
+            "difference": "0.1880"
         },
         {
             "bank": "Akbank",
-            "buy": "20.3530",
-            "sell": "22.4530",
+            "buy": "20.3520",
+            "sell": "22.4520",
             "difference": "2.1000"
         },
         {
@@ -45,14 +45,14 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "20.3750",
-            "sell": "22.1751",
+            "buy": "20.3759",
+            "sell": "22.1760",
             "difference": "1.8001"
         },
         {
             "bank": "Enpara",
-            "buy": "20.3240",
-            "sell": "21.1990",
+            "buy": "20.3250",
+            "sell": "21.2000",
             "difference": "0.8750"
         },
         {
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "20.3556",
-            "sell": "22.1024",
-            "difference": "1.7468"
+            "buy": "20.3582",
+            "sell": "22.1001",
+            "difference": "1.7419"
         },
         {
             "bank": "ING Bank",
-            "buy": "20.3790",
-            "sell": "22.1009",
-            "difference": "1.7219"
+            "buy": "20.3811",
+            "sell": "22.1015",
+            "difference": "1.7204"
         }
     ]
 }
