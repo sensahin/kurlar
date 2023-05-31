@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-05-31 18:44:32",
+    "timestamp": "2023-05-31 19:05:49",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -9,15 +9,15 @@
         },
         {
             "bank": "Altinkaynak",
-            "buy": "21.0170",
+            "buy": "21.0180",
             "sell": "21.3240",
-            "difference": "0.3070"
+            "difference": "0.3060"
         },
         {
             "bank": "Harem",
             "buy": "20.8700",
-            "sell": "21.1760",
-            "difference": "0.3060"
+            "sell": "21.1770",
+            "difference": "0.3070"
         },
         {
             "bank": "Odaci",
@@ -28,13 +28,13 @@
         {
             "bank": "Venus",
             "buy": "20.8740",
-            "sell": "21.1780",
-            "difference": "0.3040"
+            "sell": "21.1740",
+            "difference": "0.3000"
         },
         {
             "bank": "Akbank",
-            "buy": "20.4650",
-            "sell": "22.3150",
+            "buy": "20.4700",
+            "sell": "22.3200",
             "difference": "1.8500"
         },
         {
@@ -45,15 +45,15 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "20.7013",
-            "sell": "22.1014",
+            "buy": "20.7025",
+            "sell": "22.1026",
             "difference": "1.4001"
         },
         {
             "bank": "Enpara",
             "buy": "20.5250",
-            "sell": "22.2300",
-            "difference": "1.7050"
+            "sell": "22.2280",
+            "difference": "1.7030"
         },
         {
             "bank": "Garanti BBVA",
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "20.4895",
-            "sell": "22.8647",
-            "difference": "2.3752"
+            "buy": "20.4897",
+            "sell": "22.8644",
+            "difference": "2.3747"
         },
         {
             "bank": "ING Bank",
-            "buy": "20.705500",
-            "sell": "22.745585",
-            "difference": "2.0401"
+            "buy": "20.706200",
+            "sell": "22.745073",
+            "difference": "2.0389"
         }
     ]
 }
