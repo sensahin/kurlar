@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-02 16:06:23",
+    "timestamp": "2023-06-02 16:28:02",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -45,8 +45,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "20.8140",
-            "sell": "22.2641",
+            "buy": "20.8137",
+            "sell": "22.2638",
             "difference": "1.4501"
         },
         {
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "20.6694",
-            "sell": "22.7924",
-            "difference": "2.1230"
+            "buy": "20.6698",
+            "sell": "22.7921",
+            "difference": "2.1223"
         },
         {
             "bank": "ING Bank",
-            "buy": "20.8819",
-            "sell": "22.9223",
-            "difference": "2.0404"
+            "buy": "20.8806",
+            "sell": "22.9250",
+            "difference": "2.0444"
         }
     ]
 }
