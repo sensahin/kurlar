@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-05 01:05:52",
+    "timestamp": "2023-06-05 01:59:56",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "20.8362",
-            "sell": "22.9909",
-            "difference": "2.1547"
+            "buy": "20.8197",
+            "sell": "23.0017",
+            "difference": "2.1820"
         },
         {
             "bank": "ING Bank",
-            "buy": "21.0345",
-            "sell": "23.1544",
-            "difference": "2.1199"
+            "buy": "21.0444",
+            "sell": "23.1552",
+            "difference": "2.1108"
         }
     ]
 }
