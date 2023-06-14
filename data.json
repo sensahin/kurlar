@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-14 04:44:26",
+    "timestamp": "2023-06-14 05:05:56",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -15,38 +15,38 @@
         },
         {
             "bank": "Harem",
-            "buy": "23.6220",
+            "buy": "23.6260",
             "sell": "23.7290",
-            "difference": "0.1070"
+            "difference": "0.1030"
         },
         {
             "bank": "Odaci",
-            "buy": "23.5000",
-            "sell": "23.7500",
+            "buy": "23.5500",
+            "sell": "23.8000",
             "difference": "0.2500"
         },
         {
             "bank": "Venus",
-            "buy": "23.6250",
-            "sell": "23.7470",
-            "difference": "0.1220"
+            "buy": "23.6300",
+            "sell": "23.7460",
+            "difference": "0.1160"
         },
         {
             "bank": "Akbank",
-            "buy": "23.1160",
-            "sell": "24.5660",
+            "buy": "23.1200",
+            "sell": "24.5700",
             "difference": "1.4500"
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "23.0600",
+            "buy": "23.0670",
             "sell": "25.2750",
-            "difference": "2.2150"
+            "difference": "2.2080"
         },
         {
             "bank": "Denizbank",
-            "buy": "23.4991",
-            "sell": "24.3992",
+            "buy": "23.5038",
+            "sell": "24.4039",
             "difference": "0.9001"
         },
         {
@@ -63,15 +63,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "23.3837",
-            "sell": "24.6559",
-            "difference": "1.2722"
+            "buy": "23.3906",
+            "sell": "24.6523",
+            "difference": "1.2617"
         },
         {
             "bank": "ING Bank",
-            "buy": "23.4377",
-            "sell": "24.7802",
-            "difference": "1.3425"
+            "buy": "23.4452",
+            "sell": "24.7796",
+            "difference": "1.3344"
         }
     ]
 }
