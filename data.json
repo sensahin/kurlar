@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-22 19:44:22",
+    "timestamp": "2023-06-22 20:06:21",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -9,15 +9,15 @@
         },
         {
             "bank": "Altinkaynak",
-            "buy": "24.3370",
-            "sell": "24.9030",
-            "difference": "0.5660"
+            "buy": "24.3440",
+            "sell": "24.9010",
+            "difference": "0.5570"
         },
         {
             "bank": "Harem",
-            "buy": "24.4170",
-            "sell": "24.8130",
-            "difference": "0.3960"
+            "buy": "24.4190",
+            "sell": "24.8110",
+            "difference": "0.3920"
         },
         {
             "bank": "Odaci",
@@ -27,14 +27,14 @@
         },
         {
             "bank": "Venus",
-            "buy": "24.3750",
-            "sell": "24.8620",
-            "difference": "0.4870"
+            "buy": "24.3790",
+            "sell": "24.8430",
+            "difference": "0.4640"
         },
         {
             "bank": "Akbank",
-            "buy": "24.1380",
-            "sell": "25.5880",
+            "buy": "24.1500",
+            "sell": "25.6000",
             "difference": "1.4500"
         },
         {
@@ -51,8 +51,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "24.3861",
-            "sell": "25.5362",
+            "buy": "24.3953",
+            "sell": "25.5454",
             "difference": "1.1501"
         },
         {
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "24.3750",
-            "sell": "25.5432",
-            "difference": "1.1682"
+            "buy": "24.3981",
+            "sell": "25.5288",
+            "difference": "1.1307"
         }
     ]
 }
