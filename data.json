@@ -1,83 +1,83 @@
 {
-    "timestamp": "2023-06-22 11:06:02",
+    "timestamp": "2023-06-22 11:24:25",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "23.1500",
-            "sell": "23.2000",
+            "buy": "23.3000",
+            "sell": "23.3500",
             "difference": "0.0500"
         },
         {
             "bank": "Altinkaynak",
-            "buy": "22.9060",
-            "sell": "23.6730",
-            "difference": "0.7670"
+            "buy": "23.0370",
+            "sell": "23.7670",
+            "difference": "0.7300"
         },
         {
             "bank": "Harem",
-            "buy": "22.6110",
-            "sell": "24.1160",
-            "difference": "1.5050"
+            "buy": "23.2390",
+            "sell": "23.5800",
+            "difference": "0.3410"
         },
         {
             "bank": "Odaci",
-            "buy": "22.0000",
-            "sell": "24.0000",
-            "difference": "2.0000"
+            "buy": "22.7700",
+            "sell": "23.5700",
+            "difference": "0.8000"
         },
         {
             "bank": "Venus",
-            "buy": "22.6730",
-            "sell": "24.0820",
-            "difference": "1.4090"
+            "buy": "23.2370",
+            "sell": "23.5740",
+            "difference": "0.3370"
         },
         {
             "bank": "Akbank",
-            "buy": "23.1010",
-            "sell": "24.0510",
+            "buy": "23.1290",
+            "sell": "24.0790",
             "difference": "0.9500"
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "23.0000",
-            "sell": "24.0250",
-            "difference": "1.0250"
+            "buy": "23.0400",
+            "sell": "24.0480",
+            "difference": "1.0080"
         },
         {
             "bank": "CEPTETEB",
-            "buy": "23.4110",
-            "sell": "24.0890",
-            "difference": "0.6780"
+            "buy": "23.4040",
+            "sell": "24.0900",
+            "difference": "0.6860"
         },
         {
             "bank": "Denizbank",
-            "buy": "23.2877",
-            "sell": "23.8878",
+            "buy": "23.3390",
+            "sell": "23.9391",
             "difference": "0.6001"
         },
         {
             "bank": "Enpara",
-            "buy": "23.2510",
-            "sell": "23.8760",
-            "difference": "0.6250"
+            "buy": "23.2850",
+            "sell": "24.0600",
+            "difference": "0.7750"
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "23.1960",
-            "sell": "23.8960",
+            "buy": "23.1860",
+            "sell": "23.8860",
             "difference": "0.7000"
         },
         {
             "bank": "Halkbank",
-            "buy": "23.2100",
-            "sell": "23.8300",
-            "difference": "0.6200"
+            "buy": "23.2045",
+            "sell": "23.8645",
+            "difference": "0.6600"
         },
         {
             "bank": "HSBC",
-            "buy": "23.2087",
-            "sell": "24.0518",
-            "difference": "0.8431"
+            "buy": "23.2207",
+            "sell": "24.0468",
+            "difference": "0.8261"
         }
     ]
 }
