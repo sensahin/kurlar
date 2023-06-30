@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-30 12:33:26",
+    "timestamp": "2023-06-30 12:52:08",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -15,8 +15,8 @@
         },
         {
             "bank": "Harem",
-            "buy": "25.8890",
-            "sell": "26.3100",
+            "buy": "25.8880",
+            "sell": "26.3090",
             "difference": "0.4210"
         },
         {
@@ -27,21 +27,21 @@
         },
         {
             "bank": "Venus",
-            "buy": "25.8840",
-            "sell": "26.4110",
+            "buy": "25.8830",
+            "sell": "26.4100",
             "difference": "0.5270"
         },
         {
             "bank": "Akbank",
-            "buy": "25.1700",
-            "sell": "26.9700",
+            "buy": "25.1680",
+            "sell": "26.9680",
             "difference": "1.8000"
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "25.0670",
+            "buy": "25.0650",
             "sell": "27.0700",
-            "difference": "2.0030"
+            "difference": "2.0050"
         },
         {
             "bank": "CEPTETEB",
@@ -51,8 +51,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "25.4976",
-            "sell": "26.6977",
+            "buy": "25.4960",
+            "sell": "26.6961",
             "difference": "1.2001"
         },
         {
@@ -63,8 +63,8 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "25.2820",
-            "sell": "27.0820",
+            "buy": "25.2810",
+            "sell": "27.0810",
             "difference": "1.8000"
         },
         {
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.4650",
-            "sell": "26.8855",
-            "difference": "1.4205"
+            "buy": "25.4600",
+            "sell": "26.8851",
+            "difference": "1.4251"
         }
     ]
 }
