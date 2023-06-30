@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-06-30 10:06:26",
+    "timestamp": "2023-06-30 10:28:51",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -63,8 +63,8 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "25.2790",
-            "sell": "27.0790",
+            "buy": "25.2810",
+            "sell": "27.0810",
             "difference": "1.8000"
         },
         {
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.4605",
-            "sell": "26.8856",
-            "difference": "1.4251"
+            "buy": "25.4613",
+            "sell": "26.8852",
+            "difference": "1.4239"
         }
     ]
 }
