@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-07-03 03:45:04",
+    "timestamp": "2023-07-03 04:06:41",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Venus",
-            "buy": "25.7470",
+            "buy": "25.7420",
             "sell": "26.4280",
-            "difference": "0.6810"
+            "difference": "0.6860"
         },
         {
             "bank": "Akbank",
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.4239",
-            "sell": "26.8490",
-            "difference": "1.4251"
+            "buy": "25.3898",
+            "sell": "26.8786",
+            "difference": "1.4888"
         }
     ]
 }
