@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-07-03 02:48:12",
+    "timestamp": "2023-07-03 03:14:46",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Venus",
-            "buy": "25.7510",
-            "sell": "26.4900",
-            "difference": "0.7390"
+            "buy": "25.7550",
+            "sell": "26.4310",
+            "difference": "0.6760"
         },
         {
             "bank": "Akbank",
@@ -63,8 +63,8 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "25.2410",
-            "sell": "27.0410",
+            "buy": "25.2480",
+            "sell": "27.0480",
             "difference": "1.8000"
         },
         {
@@ -75,8 +75,8 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.3621",
-            "sell": "26.9272",
+            "buy": "25.3492",
+            "sell": "26.9143",
             "difference": "1.5651"
         }
     ]
