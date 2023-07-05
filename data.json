@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-07-05 11:44:23",
+    "timestamp": "2023-07-05 12:10:01",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -9,32 +9,32 @@
         },
         {
             "bank": "Altinkaynak",
-            "buy": "26.0690",
-            "sell": "26.2610",
+            "buy": "26.0700",
+            "sell": "26.2620",
             "difference": "0.1920"
         },
         {
             "bank": "Harem",
-            "buy": "26.1050",
-            "sell": "26.1410",
+            "buy": "26.1060",
+            "sell": "26.1420",
             "difference": "0.0360"
         },
         {
             "bank": "Odaci",
-            "buy": "26.0650",
-            "sell": "26.1650",
+            "buy": "26.0600",
+            "sell": "26.1600",
             "difference": "0.1000"
         },
         {
             "bank": "Venus",
-            "buy": "26.1060",
-            "sell": "26.1360",
-            "difference": "0.0300"
+            "buy": "26.1170",
+            "sell": "26.1510",
+            "difference": "0.0340"
         },
         {
             "bank": "Akbank",
-            "buy": "25.7660",
-            "sell": "26.9160",
+            "buy": "25.7670",
+            "sell": "26.9170",
             "difference": "1.1500"
         },
         {
@@ -51,14 +51,14 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "25.7791",
-            "sell": "26.4792",
+            "buy": "25.7786",
+            "sell": "26.4787",
             "difference": "0.7001"
         },
         {
             "bank": "Enpara",
-            "buy": "25.9640",
-            "sell": "26.4890",
+            "buy": "25.9625",
+            "sell": "26.4875",
             "difference": "0.5250"
         },
         {
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.8040",
-            "sell": "26.7692",
-            "difference": "0.9652"
+            "buy": "25.8069",
+            "sell": "26.7691",
+            "difference": "0.9622"
         }
     ]
 }
