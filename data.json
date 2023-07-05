@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-07-05 22:06:08",
+    "timestamp": "2023-07-05 22:28:31",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -15,8 +15,8 @@
         },
         {
             "bank": "Harem",
-            "buy": "26.0750",
-            "sell": "26.2050",
+            "buy": "26.1120",
+            "sell": "26.2420",
             "difference": "0.1300"
         },
         {
@@ -27,21 +27,21 @@
         },
         {
             "bank": "Venus",
-            "buy": "26.0050",
-            "sell": "26.2040",
-            "difference": "0.1990"
+            "buy": "26.0350",
+            "sell": "26.2070",
+            "difference": "0.1720"
         },
         {
             "bank": "Akbank",
-            "buy": "25.1520",
-            "sell": "26.9520",
+            "buy": "25.1880",
+            "sell": "26.9880",
             "difference": "1.8000"
         },
         {
             "bank": "Albaraka Türk",
-            "buy": "25.1270",
+            "buy": "25.1290",
             "sell": "27.1960",
-            "difference": "2.0690"
+            "difference": "2.0670"
         },
         {
             "bank": "CEPTETEB",
@@ -51,9 +51,9 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "25.4253",
-            "sell": "26.6253",
-            "difference": "1.2000"
+            "buy": "25.4489",
+            "sell": "26.6490",
+            "difference": "1.2001"
         },
         {
             "bank": "Enpara",
@@ -63,8 +63,8 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "25.3070",
-            "sell": "27.1070",
+            "buy": "25.3190",
+            "sell": "27.1190",
             "difference": "1.8000"
         },
         {
@@ -75,9 +75,9 @@
         },
         {
             "bank": "HSBC",
-            "buy": "25.5780",
-            "sell": "27.2483",
-            "difference": "1.6703"
+            "buy": "25.5869",
+            "sell": "27.3820",
+            "difference": "1.7951"
         }
     ]
 }
