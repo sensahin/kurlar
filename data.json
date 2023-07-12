@@ -1,16 +1,16 @@
 {
-    "timestamp": "2023-07-12 10:29:15",
+    "timestamp": "2023-07-12 10:44:25",
     "data": [
         {
             "bank": "Kapalicarsi",
-            "buy": "26.2100",
-            "sell": "26.2200",
+            "buy": "26.2150",
+            "sell": "26.2250",
             "difference": "0.0100"
         },
         {
             "bank": "Altinkaynak",
-            "buy": "26.0890",
-            "sell": "26.2500",
+            "buy": "26.1000",
+            "sell": "26.2610",
             "difference": "0.1610"
         },
         {
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Venus",
-            "buy": "26.2070",
-            "sell": "26.2240",
-            "difference": "0.0170"
+            "buy": "26.2080",
+            "sell": "26.2330",
+            "difference": "0.0250"
         },
         {
             "bank": "Akbank",
@@ -45,14 +45,14 @@
         },
         {
             "bank": "CEPTETEB",
-            "buy": "25.8720",
+            "buy": "25.8730",
             "sell": "26.5550",
-            "difference": "0.6830"
+            "difference": "0.6820"
         },
         {
             "bank": "Denizbank",
-            "buy": "25.7897",
-            "sell": "26.4898",
+            "buy": "25.7893",
+            "sell": "26.4894",
             "difference": "0.7001"
         },
         {
@@ -63,21 +63,21 @@
         },
         {
             "bank": "Garanti BBVA",
-            "buy": "25.8430",
-            "sell": "26.6930",
+            "buy": "25.8440",
+            "sell": "26.6940",
             "difference": "0.8500"
         },
         {
             "bank": "Halkbank",
-            "buy": "25.8198",
-            "sell": "26.5497",
+            "buy": "25.8203",
+            "sell": "26.5502",
             "difference": "0.7299"
         },
         {
             "bank": "HSBC",
-            "buy": "25.9064",
+            "buy": "25.9074",
             "sell": "26.6287",
-            "difference": "0.7223"
+            "difference": "0.7213"
         }
     ]
 }
