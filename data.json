@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-08-01 06:44:35",
+    "timestamp": "2023-08-01 07:06:32",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -10,26 +10,26 @@
         {
             "bank": "Altinkaynak",
             "buy": "26.7540",
-            "sell": "26.9720",
-            "difference": "0.2180"
+            "sell": "26.9800",
+            "difference": "0.2260"
         },
         {
             "bank": "Harem",
             "buy": "26.8820",
-            "sell": "26.9700",
-            "difference": "0.0880"
+            "sell": "26.9740",
+            "difference": "0.0920"
         },
         {
             "bank": "Odaci",
-            "buy": "26.8250",
-            "sell": "27.0250",
+            "buy": "26.8300",
+            "sell": "27.0300",
             "difference": "0.2000"
         },
         {
             "bank": "Venus",
-            "buy": "26.8830",
-            "sell": "26.9640",
-            "difference": "0.0810"
+            "buy": "26.8750",
+            "sell": "26.9660",
+            "difference": "0.0910"
         },
         {
             "bank": "Akbank",
@@ -51,8 +51,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "26.6038",
-            "sell": "27.3039",
+            "buy": "26.6041",
+            "sell": "27.3042",
             "difference": "0.7001"
         },
         {
@@ -75,27 +75,27 @@
         },
         {
             "bank": "HSBC",
-            "buy": "26.8463",
-            "sell": "27.4228",
-            "difference": "0.5765"
+            "buy": "26.8457",
+            "sell": "27.4227",
+            "difference": "0.5770"
         },
         {
             "bank": "ING Bank",
-            "buy": "26.4818",
-            "sell": "27.7405",
-            "difference": "1.2587"
+            "buy": "26.4830",
+            "sell": "27.7408",
+            "difference": "1.2578"
         },
         {
             "bank": "İş Bankası",
-            "buy": "26.7291",
-            "sell": "27.5804",
-            "difference": "0.8513"
+            "buy": "26.7245",
+            "sell": "27.5854",
+            "difference": "0.8609"
         },
         {
             "bank": "Kuveyt Turk",
             "buy": "26.6128",
-            "sell": "27.0718",
-            "difference": "0.4590"
+            "sell": "27.0719",
+            "difference": "0.4591"
         },
         {
             "bank": "Merkez Bankasi",
@@ -111,33 +111,33 @@
         },
         {
             "bank": "Sekerbank",
-            "buy": "26.7510",
-            "sell": "27.8876",
-            "difference": "1.1366"
+            "buy": "26.7523",
+            "sell": "27.8875",
+            "difference": "1.1352"
         },
         {
             "bank": "Turkiye Finans",
-            "buy": "26.8415",
-            "sell": "27.9694",
-            "difference": "1.1279"
+            "buy": "26.8428",
+            "sell": "27.9708",
+            "difference": "1.1280"
         },
         {
             "bank": "Vakifbank",
-            "buy": "26.8421",
-            "sell": "27.6781",
+            "buy": "26.8400",
+            "sell": "27.6760",
             "difference": "0.8360"
         },
         {
             "bank": "Vakif Katilim",
-            "buy": "26.8299",
-            "sell": "27.3692",
-            "difference": "0.5393"
+            "buy": "26.8302",
+            "sell": "27.3694",
+            "difference": "0.5392"
         },
         {
             "bank": "Yapikredi",
-            "buy": "26.6045",
-            "sell": "27.6067",
-            "difference": "1.0022"
+            "buy": "26.6039",
+            "sell": "27.6084",
+            "difference": "1.0045"
         },
         {
             "bank": "Ziraat Bankasi",
@@ -147,9 +147,9 @@
         },
         {
             "bank": "Ziraat Katilim",
-            "buy": "26.8277",
-            "sell": "27.6686",
-            "difference": "0.8409"
+            "buy": "26.8287",
+            "sell": "27.6690",
+            "difference": "0.8403"
         }
     ]
 }
