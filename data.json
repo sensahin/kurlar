@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-24 21:24:41",
+    "timestamp": "2023-09-24 21:44:33",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Venus",
-            "buy": "27.1390",
+            "buy": "27.1060",
             "sell": "27.2460",
-            "difference": "0.1070"
+            "difference": "0.1400"
         },
         {
             "bank": "Akbank",
@@ -51,9 +51,9 @@
         },
         {
             "bank": "Anadolubank",
-            "buy": "26.6235",
-            "sell": "28.2460",
-            "difference": "1.6225"
+            "buy": "26.6175",
+            "sell": "28.2524",
+            "difference": "1.6349"
         },
         {
             "bank": "Denizbank",
@@ -93,15 +93,15 @@
         },
         {
             "bank": "İş Bankası",
-            "buy": "26.5201",
-            "sell": "28.3050",
-            "difference": "1.7849"
+            "buy": "26.5200",
+            "sell": "28.3048",
+            "difference": "1.7848"
         },
         {
             "bank": "Kuveyt Turk",
             "buy": "26.8059",
-            "sell": "27.8455",
-            "difference": "1.0396"
+            "sell": "27.8453",
+            "difference": "1.0394"
         },
         {
             "bank": "Merkez Bankasi",
@@ -135,9 +135,9 @@
         },
         {
             "bank": "Vakif Katilim",
-            "buy": "26.3497",
-            "sell": "28.3871",
-            "difference": "2.0374"
+            "buy": "26.3644",
+            "sell": "28.4028",
+            "difference": "2.0384"
         },
         {
             "bank": "Yapikredi",
