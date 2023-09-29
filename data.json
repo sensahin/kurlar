@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-09-29 22:26:24",
+    "timestamp": "2023-09-29 22:44:39",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -156,6 +156,12 @@
             "buy": "26.5923",
             "sell": "28.6484",
             "difference": "2.0561"
+        },
+        {
+            "bank": "Ziraat Katilim",
+            "buy": "25.8214",
+            "sell": "29.5490",
+            "difference": "3.7276"
         }
     ]
 }
