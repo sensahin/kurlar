@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-02 04:44:34",
+    "timestamp": "2023-10-02 05:06:13",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -21,15 +21,15 @@
         },
         {
             "bank": "Odaci",
-            "buy": "27.3500",
-            "sell": "27.4500",
-            "difference": "0.1000"
+            "buy": "27.3250",
+            "sell": "27.4750",
+            "difference": "0.1500"
         },
         {
             "bank": "Venus",
             "buy": "27.3320",
-            "sell": "27.5530",
-            "difference": "0.2210"
+            "sell": "27.5400",
+            "difference": "0.2080"
         },
         {
             "bank": "Akbank",
@@ -87,27 +87,27 @@
         },
         {
             "bank": "HSBC",
-            "buy": "27.1132",
-            "sell": "28.4028",
-            "difference": "1.2896"
+            "buy": "27.1308",
+            "sell": "28.3827",
+            "difference": "1.2519"
         },
         {
             "bank": "ING Bank",
-            "buy": "26.5150",
-            "sell": "28.3244",
-            "difference": "1.8094"
+            "buy": "26.5142",
+            "sell": "28.3259",
+            "difference": "1.8117"
         },
         {
             "bank": "İş Bankası",
-            "buy": "26.8164",
-            "sell": "28.6198",
-            "difference": "1.8034"
+            "buy": "26.8160",
+            "sell": "28.6189",
+            "difference": "1.8029"
         },
         {
             "bank": "Kuveyt Turk",
-            "buy": "27.1115",
-            "sell": "27.8851",
-            "difference": "0.7736"
+            "buy": "27.1067",
+            "sell": "27.8890",
+            "difference": "0.7823"
         },
         {
             "bank": "Merkez Bankasi",
@@ -141,8 +141,8 @@
         },
         {
             "bank": "Vakif Katilim",
-            "buy": "26.9804",
-            "sell": "28.2992",
+            "buy": "26.9803",
+            "sell": "28.2991",
             "difference": "1.3188"
         },
         {
