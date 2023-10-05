@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-10-05 03:06:15",
+    "timestamp": "2023-10-05 03:24:38",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -21,15 +21,15 @@
         },
         {
             "bank": "Odaci",
-            "buy": "27.6000",
+            "buy": "27.6050",
             "sell": "27.6650",
-            "difference": "0.0650"
+            "difference": "0.0600"
         },
         {
             "bank": "Venus",
             "buy": "27.5960",
-            "sell": "27.6780",
-            "difference": "0.0820"
+            "sell": "27.6760",
+            "difference": "0.0800"
         },
         {
             "bank": "Akbank",
@@ -93,9 +93,9 @@
         },
         {
             "bank": "ING Bank",
-            "buy": "26.6674",
-            "sell": "28.4434",
-            "difference": "1.7760"
+            "buy": "26.6632",
+            "sell": "28.4441",
+            "difference": "1.7809"
         },
         {
             "bank": "İş Bankası",
