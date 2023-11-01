@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-01 06:07:04",
+    "timestamp": "2023-11-01 06:28:04",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -9,32 +9,32 @@
         },
         {
             "bank": "Altinkaynak",
-            "buy": "28.2000",
+            "buy": "28.2110",
             "sell": "28.3900",
-            "difference": "0.1900"
+            "difference": "0.1790"
         },
         {
             "bank": "Harem",
-            "buy": "28.3060",
-            "sell": "28.3650",
-            "difference": "0.0590"
+            "buy": "28.2810",
+            "sell": "28.3750",
+            "difference": "0.0940"
         },
         {
             "bank": "Odaci",
-            "buy": "28.2400",
-            "sell": "28.3900",
-            "difference": "0.1500"
+            "buy": "28.2500",
+            "sell": "28.3700",
+            "difference": "0.1200"
         },
         {
             "bank": "Venus",
-            "buy": "28.2810",
-            "sell": "28.3670",
-            "difference": "0.0860"
+            "buy": "28.2840",
+            "sell": "28.3660",
+            "difference": "0.0820"
         },
         {
             "bank": "Akbank",
-            "buy": "27.8390",
-            "sell": "29.0390",
+            "buy": "27.8380",
+            "sell": "29.0380",
             "difference": "1.2000"
         },
         {
@@ -45,9 +45,9 @@
         },
         {
             "bank": "Alternatif Bank",
-            "buy": "28.1560",
-            "sell": "28.4660",
-            "difference": "0.3100"
+            "buy": "28.2400",
+            "sell": "28.4500",
+            "difference": "0.2100"
         },
         {
             "bank": "CEPTETEB",
@@ -57,15 +57,15 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "27.9969",
-            "sell": "28.8470",
+            "buy": "27.9964",
+            "sell": "28.8465",
             "difference": "0.8501"
         },
         {
             "bank": "Enpara",
-            "buy": "27.8975",
-            "sell": "28.4725",
-            "difference": "0.5750"
+            "buy": "28.1975",
+            "sell": "28.5725",
+            "difference": "0.3750"
         },
         {
             "bank": "Garanti BBVA",
@@ -81,15 +81,15 @@
         },
         {
             "bank": "HSBC",
-            "buy": "28.2024",
-            "sell": "28.5845",
-            "difference": "0.3821"
+            "buy": "28.1913",
+            "sell": "28.5954",
+            "difference": "0.4041"
         },
         {
             "bank": "ING Bank",
-            "buy": "27.6916",
-            "sell": "28.9183",
-            "difference": "1.2267"
+            "buy": "27.6872",
+            "sell": "28.9158",
+            "difference": "1.2286"
         },
         {
             "bank": "İş Bankası",
@@ -99,8 +99,8 @@
         },
         {
             "bank": "Kuveyt Turk",
-            "buy": "28.0130",
-            "sell": "28.4703",
+            "buy": "28.0128",
+            "sell": "28.4701",
             "difference": "0.4573"
         },
         {
@@ -111,51 +111,51 @@
         },
         {
             "bank": "QNB Finansbank",
-            "buy": "27.8625",
-            "sell": "28.5225",
-            "difference": "0.6600"
+            "buy": "28.1625",
+            "sell": "28.6225",
+            "difference": "0.4600"
         },
         {
             "bank": "Sekerbank",
-            "buy": "27.8210",
-            "sell": "28.9336",
-            "difference": "1.1126"
+            "buy": "27.3010",
+            "sell": "29.2890",
+            "difference": "1.9880"
         },
         {
             "bank": "Turkiye Finans",
-            "buy": "28.1129",
-            "sell": "28.6695",
-            "difference": "0.5566"
+            "buy": "28.1134",
+            "sell": "28.6699",
+            "difference": "0.5565"
         },
         {
             "bank": "Vakifbank",
-            "buy": "27.9512",
-            "sell": "28.8572",
+            "buy": "27.9517",
+            "sell": "28.8577",
             "difference": "0.9060"
         },
         {
             "bank": "Vakif Katilim",
-            "buy": "28.0928",
-            "sell": "28.5459",
-            "difference": "0.4531"
+            "buy": "28.0922",
+            "sell": "28.5452",
+            "difference": "0.4530"
         },
         {
             "bank": "Yapikredi",
-            "buy": "27.8926",
-            "sell": "28.8504",
-            "difference": "0.9578"
+            "buy": "27.9181",
+            "sell": "28.8756",
+            "difference": "0.9575"
         },
         {
             "bank": "Ziraat Bankasi",
-            "buy": "27.9068",
-            "sell": "28.8718",
-            "difference": "0.9650"
+            "buy": "27.9070",
+            "sell": "28.8721",
+            "difference": "0.9651"
         },
         {
             "bank": "Ziraat Katilim",
-            "buy": "27.8848",
-            "sell": "28.8928",
-            "difference": "1.0080"
+            "buy": "27.8849",
+            "sell": "28.8912",
+            "difference": "1.0063"
         }
     ]
 }
