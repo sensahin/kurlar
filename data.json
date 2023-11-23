@@ -1,5 +1,5 @@
 {
-    "timestamp": "2023-11-23 02:15:43",
+    "timestamp": "2023-11-23 02:31:04",
     "data": [
         {
             "bank": "Kapalicarsi",
@@ -27,9 +27,9 @@
         },
         {
             "bank": "Venus",
-            "buy": "28.8570",
+            "buy": "28.8690",
             "sell": "28.9890",
-            "difference": "0.1320"
+            "difference": "0.1200"
         },
         {
             "bank": "Akbank",
@@ -51,8 +51,8 @@
         },
         {
             "bank": "Denizbank",
-            "buy": "28.4055",
-            "sell": "29.5056",
+            "buy": "28.4065",
+            "sell": "29.5066",
             "difference": "1.1001"
         },
         {
@@ -81,21 +81,21 @@
         },
         {
             "bank": "ING Bank",
-            "buy": "27.8635",
-            "sell": "29.8011",
-            "difference": "1.9376"
+            "buy": "27.8637",
+            "sell": "29.7708",
+            "difference": "1.9071"
         },
         {
             "bank": "İş Bankası",
             "buy": "28.1430",
-            "sell": "30.0312",
-            "difference": "1.8882"
+            "sell": "30.0313",
+            "difference": "1.8883"
         },
         {
             "bank": "Kuveyt Turk",
             "buy": "28.2675",
-            "sell": "29.2030",
-            "difference": "0.9355"
+            "sell": "29.2025",
+            "difference": "0.9350"
         },
         {
             "bank": "Merkez Bankasi",
@@ -129,15 +129,15 @@
         },
         {
             "bank": "Vakif Katilim",
-            "buy": "28.2416",
-            "sell": "29.4532",
-            "difference": "1.2116"
+            "buy": "28.2445",
+            "sell": "29.4562",
+            "difference": "1.2117"
         },
         {
             "bank": "Yapikredi",
             "buy": "28.4844",
-            "sell": "29.6094",
-            "difference": "1.1250"
+            "sell": "29.5933",
+            "difference": "1.1089"
         },
         {
             "bank": "Ziraat Bankasi",
